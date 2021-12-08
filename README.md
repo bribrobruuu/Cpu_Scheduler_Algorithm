@@ -5,12 +5,12 @@ CPU Scheduling is a process of determining which process will own CPU for execut
 This repository contains the source file and the executable files of the calculator for the simulations of cpu scheduling:
 
 It comes with the ff algorithms: 
-First Come First Serve (FCFS)
-,Shortest-Job-First (SJF) Scheduling
-,Shortest Remaining Time
-,Priority Scheduling (Pre-Emptive)
-,Priority Scheduling (Non Pre-Emptive)
-,Round Robin Scheduling
+ First Come First Serve (FCFS)
+ ,Shortest-Job-First (SJF) Scheduling
+ ,Shortest Remaining Time
+ ,Priority Scheduling (Pre-Emptive)
+ ,Priority Scheduling (Non Pre-Emptive)
+ ,Round Robin Scheduling.
 
 # Executables
 
