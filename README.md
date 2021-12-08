@@ -6,11 +6,11 @@ This repository contains the source file and the executable files of the calcula
 
 It comes with the ff algorithms: 
 First Come First Serve (FCFS)
-Shortest-Job-First (SJF) Scheduling
-Shortest Remaining Time
-Priority Scheduling (Pre-Emptive)
-Priority Scheduling (Non Pre-Emptive)
-Round Robin Scheduling
+,Shortest-Job-First (SJF) Scheduling
+,Shortest Remaining Time
+,Priority Scheduling (Pre-Emptive)
+,Priority Scheduling (Non Pre-Emptive)
+,Round Robin Scheduling
 
 # Executables
 
